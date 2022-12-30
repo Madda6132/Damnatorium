@@ -1,0 +1,12 @@
+StorySlide
+
+SlideShow
+  -Handles the story slide GameObjects.
+  -Handles the scriptableStory choices.
+  -Checks StoryMatrix agains ScriptableStory choices to include or exclude them.
+
+StoryMatrix
+  -Contains the players choices throughout the game.
+
+ScriptableStory
+  -Handles the story descriptions, image, and the choices available
