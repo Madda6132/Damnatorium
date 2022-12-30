@@ -1,1 +1,7 @@
+EnviromentLoop
 
+EnviromentLoop
+  -Contains Enviroment pieces prefabs
+  -Random pieces are created.
+  -Pools any pieces that made contact with an end GameObject, and reuses them to create a loop.
+  
